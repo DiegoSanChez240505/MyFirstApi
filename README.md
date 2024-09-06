@@ -11,7 +11,7 @@ PRACTICA 1. Creacion de API
 
 Alumno: Diego Alexander Sanchez Ek
 
-3 Cuatrimestre
+4 Cuatrimestre
 
 Grupo 4D
 
